@@ -1,4 +1,4 @@
-# A very simple react app
+# Robox - *A very simple react app*
 
 ## Available Scripts
 
