@@ -8,4 +8,10 @@ To run this project, you can use:
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## What I've learned
+* React DOM
+* JSX
+* Components and props
+* States
+
 *This project was bootstrapped with create-react-app.*
