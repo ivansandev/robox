@@ -1,63 +1,51 @@
 export const robots = [
     {
       id: 1,
-      name: 'Leanne Graham',
-      username: 'Bret',
-      email: 'Sincere@april.biz'
+      name: 'Ivan Sandev',
+      username: 'Ivan',
+      email: 'ivansandev@january.com'
     },
     {
       id: 2,
-      name: 'Ervin Howell',
-      username: 'Antonette',
-      email: 'Shanna@melissa.tv'
+      name: 'Simeon Simeonov',
+      username: 'Simeon',
+      email: 'simeonsimeonov@february.com'
     },
     {
       id: 3,
-      name: 'Clementine Bauch',
-      username: 'Samantha',
-      email: 'Nathan@yesenia.net'
+      name: 'Ivan Stoilov',
+      username: 'Stoilov',
+      email: 'ivanstoilov@march.net'
     },
     {
       id: 4,
-      name: 'Patricia Lebsack',
-      username: 'Karianne',
-      email: 'Julianne.OConner@kory.org'
+      name: 'Nikola Cucukovski',
+      username: 'cucukovrski',
+      email: 'nikolacucukovski@april.org'
     },
     {
       id: 5,
-      name: 'Chelsey Dietrich',
-      username: 'Kamren',
-      email: 'Lucio_Hettinger@annie.ca'
+      name: 'Petar Petrov',
+      username: 'Petrov',
+      email: 'petar123@may.com'
     },
     {
       id: 6,
-      name: 'Mrs. Dennis Schulist',
-      username: 'Leopoldo_Corkery',
-      email: 'Karley_Dach@jasper.info'
+      name: 'Mr. Jackson',
+      username: 'Jackson',
+      email: 'jackson123@internet.info'
     },
     {
       id: 7,
-      name: 'Kurtis Weissnat',
-      username: 'Elwyn.Skiles',
-      email: 'Telly.Hoeger@billy.biz'
+      name: 'Brooklyn Man',
+      username: 'Brooklyn',
+      email: 'booklyn2000@mail.net'
     },
     {
       id: 8,
-      name: 'Nicholas Runolfsdottir V',
-      username: 'Maxime_Nienow',
-      email: 'Sherwood@rosamond.me'
-    },
-    {
-      id: 9,
-      name: 'Glenna Reichert',
-      username: 'Delphine',
-      email: 'Chaim_McDermott@dana.io'
-    },
-    {
-      id: 10,
-      name: 'Clementina DuBuque',
-      username: 'Moriah.Stanton',
-      email: 'Rey.Padberg@karina.biz'
+      name: 'Nikolay Carev',
+      username: 'Nikolay',
+      email: 'nikolaycarev@internet.me'
     }
   ];
   
