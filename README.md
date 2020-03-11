@@ -1,15 +1,12 @@
 # Robox - *A very simple react app*
 
-## Available Scripts
-
-To run this project, you can use:
-
-#### `npm start`
-
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## How to run
+- Clone project
+- Install all necessary packages with `npm install`
+- Run with `npm start`
 
 ## What I've learned
-* React DOM
+* React DOM Basics
 * JSX
 * Components and props
 * States
